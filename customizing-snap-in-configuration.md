@@ -1,0 +1,2 @@
+# Customizing snap-in configuration
+
