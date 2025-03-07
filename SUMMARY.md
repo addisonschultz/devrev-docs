@@ -46,17 +46,23 @@
 - [Webhooks](Webhooks_Guide.md)
 - [Restricted messages on a timeline](Timeline_Entries_Guide.md)
 
-## SDKs
+## Web SDK
 
-### Web SDK
+- [Overview](web-sdk/overview.md)
+- [Install the Web SDK](web-sdk/install-the-web-sdk.md)
+- [Install PLuG search](web-sdk/install-plug-search.md)
+- [Identify your users with PLuG](web-sdk/identify-your-users-with-plug.md)
+- [Track events](web-sdk/track-events.md)
+- [Methods](web-sdk/methods.md)
+- [Custom implementation of PLuG widget](web-sdk/custom-implementation-of-plug-widget.md)
 
-- [Overview](SDK_Overview.md)
-- [Install the Web SDK](Web_SDK_Install.md)
-- [Install PLuG search](Search_Install.md)
-- [Identify your users with PLuG](Identify_Web_User.md)
-- [Track events](Track_Events.md)
-- [Methods](Methods.md)
-- [Custom implementation of PLuG widget](Customize.md)
+* [Overview](SDK_Overview.md)
+* [Install the Web SDK](Web_SDK_Install.md)
+* [Install PLuG search](Search_Install.md)
+* [Identify your users with PLuG](Identify_Web_User.md)
+* [Track events](Track_Events.md)
+* [Methods](Methods.md)
+* [Custom implementation of PLuG widget](Customize.md)
 
 ### Mobile SDK
 
@@ -69,7 +75,7 @@
 
 - [Concepts](Snapin_Concepts.md)
 
-### Tutorials
+## Tutorials
 
 - [Overview](Tutorial_Overview.md)
 - [Getting started](Getting_Started_Tutorial.md)
@@ -78,7 +84,7 @@
 - [Snap-in triggered by a DevRev event](Triggered_Event.md)
 - [Snap-in triggered by an external source](Triggered_External_Source.md)
 
-### ADaaS
+## ADaaS
 
 - [Airdrop-as-a-Service (ADaaS)](ADaaS_Overview.md)
 - [Getting started](ADaaS_Getting_Started.md)
@@ -89,14 +95,14 @@
 - [Attachments extraction](Attachments_Extraction.md)
 - [Data and attachments deletion](Data_Attachments_Deletion.md)
 
-### References
+## References
 
 - [Install DevRev CLI](CLI_Install.md)
 - [DevRev CLI reference](CLI_Reference.md)
 - [Snap-in manifest](Manifest.md)
 - [Snap-in V1 manifest](V1_Manifest.md)
 
-#### Keyrings
+---
 
 - [Keyrings: Securely connecting snap-ins to external services](Keyrings_Introduction.md)
 - [OAuth 2.0 configuration: Securely storing access tokens](OAuth_Config.md)
