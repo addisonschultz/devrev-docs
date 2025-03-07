@@ -2,123 +2,123 @@
 
 ## About
 
-- [For Developers](developer-intro.md)
-- [Authentication](authentication.md)
-- [Pagination](pagination.md)
-- [Versioning](versioning.md)
-- [Rate Limits](rate-limits.md)
-- [Errors](responses.md)
+- [For Developers](For_Developers.md)
+- [Authentication](Authentication.md)
+- [Pagination](Pagination.md)
+- [Versioning](Versioning.md)
+- [Rate Limits](Rate_Limits.md)
+- [Errors](Errors.md)
 
 ## API Reference
 
-- [Getting started](welcome.md)
+- [Getting started](Getting_Started.md)
 - Artifacts
-  - [Attachments](artifacts.md)
+  - [Attachments](Attachments.md)
 - Auth connections
-  - [Identity provider](identity.md)
+  - [Identity provider](Identity_Provider.md)
 - Auth tokens
-  - [Security tokens](security-token.md)
+  - [Security tokens](Security_Tokens.md)
 - Dev users
-  - [Product builders and service providers](dev-users.md)
+  - [Product builders and service providers](Dev_Users.md)
 - Parts
-  - [Product components](parts.md)
+  - [Product components](Parts.md)
 - Rev orgs
-  - [Workspaces](revorgs.md)
+  - [Workspaces](Rev_Orgs.md)
 - Tags
-  - [Concepts](tags.md)
+  - [Concepts](Tags.md)
 - Timeline entries
-  - [Discussions and events](timeline.md)
+  - [Discussions and events](Timeline_Entries.md)
 - Webhooks
-  - [Event responses](webhooks.md)
+  - [Event responses](Webhooks.md)
 - Works
-  - [Tickets and issues](works.md)
+  - [Tickets and issues](Works.md)
 - Accounts
-  - [Accounts](accounts.md)
+  - [Accounts](Accounts.md)
 - Slas
-  - [Service level agreement](sla.md)
+  - [Service level agreement](SLAs.md)
 
 ## Changelog
 
-- [Changelog](changelog.md)
+- [Changelog](Changelog.md)
 
 ## Guides
 
-- [Webhooks](webhooks-guide.md)
-- [Restricted messages on a timeline](timeline-entries-guide.md)
+- [Webhooks](Webhooks_Guide.md)
+- [Restricted messages on a timeline](Timeline_Entries_Guide.md)
 
 ## SDKs
 
 ### Web SDK
 
-- [Overview](sdk-intro.md)
-- [Install the Web SDK](web-sdk-install.md)
-- [Install PLuG search](search-install.md)
-- [Identify your users with PLuG](identify-web-user.md)
-- [Track events](track-events.md)
-- [Methods](methods.md)
-- [Custom implementation of PLuG widget](customize.md)
+- [Overview](SDK_Overview.md)
+- [Install the Web SDK](Web_SDK_Install.md)
+- [Install PLuG search](Search_Install.md)
+- [Identify your users with PLuG](Identify_Web_User.md)
+- [Track events](Track_Events.md)
+- [Methods](Methods.md)
+- [Custom implementation of PLuG widget](Customize.md)
 
 ### Mobile SDK
 
-- [Android integration](sdk-android.md)
-- [iOS integration](sdk-ios.md)
-- [React Native integration](sdk-react-native.md)
-- [Push notifications](push-notification.md)
+- [Android integration](SDK_Android.md)
+- [iOS integration](SDK_iOS.md)
+- [React Native integration](SDK_React_Native.md)
+- [Push notifications](Push_Notifications.md)
 
 ## Snap-in development
 
-- [Concepts](snapin-concepts.md)
+- [Concepts](Snapin_Concepts.md)
 
 ### Tutorials
 
-- [Overview](tutorial.md)
-- [Getting started](start.md)
-- [Using a snap-in to perform a DevRev action](timer-ticket-creator.md)
-- [Using a snap-in to perform an external action](perform-external-action.md)
-- [Snap-in triggered by a DevRev event](triggered-event.md)
-- [Snap-in triggered by an external source](triggered-external-source.md)
+- [Overview](Tutorial_Overview.md)
+- [Getting started](Getting_Started_Tutorial.md)
+- [Using a snap-in to perform a DevRev action](Timer_Ticket_Creator.md)
+- [Using a snap-in to perform an external action](Perform_External_Action.md)
+- [Snap-in triggered by a DevRev event](Triggered_Event.md)
+- [Snap-in triggered by an external source](Triggered_External_Source.md)
 
 ### ADaaS
 
-- [Airdrop-as-a-Service (ADaaS)](adaas-overview.md)
-- [Getting started](adaas-getting-started.md)
-- [Extraction phases](extraction-phases.md)
-- [External sync units extraction](external-sync-units-extraction.md)
-- [Metadata extraction](metadata-extraction.md)
-- [Data extraction](data-extraction.md)
-- [Attachments extraction](attachments-extraction.md)
-- [Data and attachments deletion](data-attachments-deletion.md)
+- [Airdrop-as-a-Service (ADaaS)](ADaaS_Overview.md)
+- [Getting started](ADaaS_Getting_Started.md)
+- [Extraction phases](Extraction_Phases.md)
+- [External sync units extraction](External_Sync_Units_Extraction.md)
+- [Metadata extraction](Metadata_Extraction.md)
+- [Data extraction](Data_Extraction.md)
+- [Attachments extraction](Attachments_Extraction.md)
+- [Data and attachments deletion](Data_Attachments_Deletion.md)
 
 ### References
 
-- [Install DevRev CLI](cli-install.md)
-- [DevRev CLI reference](cli.md)
-- [Snap-in manifest](manifest.md)
-- [Snap-in V1 manifest](v1-manifest.md)
+- [Install DevRev CLI](CLI_Install.md)
+- [DevRev CLI reference](CLI_Reference.md)
+- [Snap-in manifest](Manifest.md)
+- [Snap-in V1 manifest](V1_Manifest.md)
 
 #### Keyrings
 
-- [Keyrings: Securely connecting snap-ins to external services](keyrings-introduction.md)
-- [OAuth 2.0 configuration: Securely storing access tokens](oauth_config.md)
-- [Secret configurations: Securely storing credentials](secret_config.md)
-- [Developer keyrings](developer_keyring.md)
+- [Keyrings: Securely connecting snap-ins to external services](Keyrings_Introduction.md)
+- [OAuth 2.0 configuration: Securely storing access tokens](OAuth_Config.md)
+- [Secret configurations: Securely storing credentials](Secret_Config.md)
+- [Developer keyrings](Developer_Keyring.md)
 
-- [Event sources](event_sources.md)
-- [Inputs](inputs.md)
-- [Commands](commands.md)
-- [Functions](functions.md)
-- [Function invocation](function_invocation.md)
-- [Hooks](hooks.md)
-- [Snapkit](snapkit.md)
-- [Snap Components](snap-components.md)
-- [Snap-in resources](snap-in-resources.md)
-- [Customizing snap-in configuration](snap-in-configuration.md)
+- [Event sources](Event_Sources.md)
+- [Inputs](Inputs.md)
+- [Commands](Commands.md)
+- [Functions](Functions.md)
+- [Function invocation](Function_Invocation.md)
+- [Hooks](Hooks.md)
+- [Snapkit](Snapkit.md)
+- [Snap Components](Snap_Components.md)
+- [Snap-in resources](Snap_In_Resources.md)
+- [Customizing snap-in configuration](Snap_In_Configuration.md)
 
-- [Development best practices](best_practices.md)
-- [Locally testing snap-ins](testing.md)
-- [Handling errors and retrying](retry-mechanism.md)
-- [Debugging](debugging.md)
-- [Quotas and limits](limits.md)
-- [Upgrade snap-ins](upgrades.md)
-- [Code Samples](samples.md)
-- [Marketplace listings](marketplace-listings.md)
+- [Development best practices](Best_Practices.md)
+- [Locally testing snap-ins](Testing.md)
+- [Handling errors and retrying](Retry_Mechanism.md)
+- [Debugging](Debugging.md)
+- [Quotas and limits](Quotas_And_Limits.md)
+- [Upgrade snap-ins](Upgrades.md)
+- [Code Samples](Code_Samples.md)
+- [Marketplace listings](Marketplace_Listings.md)
